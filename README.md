@@ -1,5 +1,5 @@
 ## Bem Vindos
-Meu nome é Nathan Leite Bidullph
+Meu nome é Nathan Leite Biddulph
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
